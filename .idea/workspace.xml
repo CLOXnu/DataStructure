@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DataStructure" targetName="DataStructure" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16e6379d-b1c7-42db-89e1-cc8fa20ae456" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YsAq1ESJ21n97Dw4WVCbmGMcHx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Work1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DataStructure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="DataStructure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="DataStructure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16e6379d-b1c7-42db-89e1-cc8fa20ae456" name="Default Changelist" comment="" />
+      <created>1583721115228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583721115228</updated>
+      <workItem from="1583721119171" duration="4980000" />
+      <workItem from="1583926271868" duration="13000" />
+      <workItem from="1584066751887" duration="39000" />
+      <workItem from="1584192619173" duration="18000" />
+      <workItem from="1584675700012" duration="99000" />
+      <workItem from="1585665367579" duration="9388000" />
+      <workItem from="1585698387455" duration="13297000" />
+      <workItem from="1585712736691" duration="6082000" />
+      <workItem from="1585724310530" duration="113000" />
+      <workItem from="1585724425816" duration="62000" />
+      <workItem from="1585724489319" duration="3935000" />
+      <workItem from="1585753956673" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="944" y="350" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585701991957">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="944" y="350" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1011@0.23.1920.1011" timestamp="1585701991957" />
+    <state width="1172" height="140" key="GridCell.Tab.0.bottom" timestamp="1585737082132">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1172" height="140" key="GridCell.Tab.0.bottom/0.23.1920.1011@0.23.1920.1011" timestamp="1585737082132" />
+    <state width="1172" height="140" key="GridCell.Tab.0.center" timestamp="1585737082131">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1172" height="140" key="GridCell.Tab.0.center/0.23.1920.1011@0.23.1920.1011" timestamp="1585737082131" />
+    <state width="1172" height="140" key="GridCell.Tab.0.left" timestamp="1585737082130">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1172" height="140" key="GridCell.Tab.0.left/0.23.1920.1011@0.23.1920.1011" timestamp="1585737082130" />
+    <state width="1172" height="140" key="GridCell.Tab.0.right" timestamp="1585737082131">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1172" height="140" key="GridCell.Tab.0.right/0.23.1920.1011@0.23.1920.1011" timestamp="1585737082131" />
+    <state width="1291" height="280" key="GridCell.Tab.1.bottom" timestamp="1585712733826">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1291" height="280" key="GridCell.Tab.1.bottom/0.23.1920.1011@0.23.1920.1011" timestamp="1585712733826" />
+    <state width="1291" height="280" key="GridCell.Tab.1.center" timestamp="1585712733826">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1291" height="280" key="GridCell.Tab.1.center/0.23.1920.1011@0.23.1920.1011" timestamp="1585712733826" />
+    <state width="1291" height="280" key="GridCell.Tab.1.left" timestamp="1585712733826">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1291" height="280" key="GridCell.Tab.1.left/0.23.1920.1011@0.23.1920.1011" timestamp="1585712733826" />
+    <state width="1291" height="280" key="GridCell.Tab.1.right" timestamp="1585712733826">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1291" height="280" key="GridCell.Tab.1.right/0.23.1920.1011@0.23.1920.1011" timestamp="1585712733826" />
+    <state x="539" y="208" key="SettingsEditor" timestamp="1585675065803">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="539" y="208" key="SettingsEditor/0.23.1920.1011@0.23.1920.1011" timestamp="1585675065803" />
+    <state x="639" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1585753956806">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="639" y="361" key="com.intellij.ide.util.TipDialog/0.23.1920.1011@0.23.1920.1011" timestamp="1585753956806" />
+    <state x="959" y="180" key="refactoring.ChangeSignatureDialog" timestamp="1585725706882">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="959" y="180" key="refactoring.ChangeSignatureDialog/0.23.1920.1011@0.23.1920.1011" timestamp="1585725706882" />
+  </component>
+</project>

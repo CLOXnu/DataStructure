@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/DoublyLinkedList/DoublyLinkedList.h
+DoublyLinkedListNode.h
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/DoublyLinkedList/DoublyLinkedListNode.h
+
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/DoublyLinkedList/DoublyLinkedListNode.h
+
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/Intersection.cpp
+SinglyLinkedList.h
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/SinglyLinkedList.h
+SinglyLinkedListNode.h
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/SinglyLinkedListNode.h
+
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/SinglyLinkedList.h
+SinglyLinkedListNode.h
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/SinglyLinkedListNode.h
+
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/SinglyLinkedListNode.h
+
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/run_work2.cpp
+iostream
+-
+SinglyLinkedList/SinglyLinkedList.h
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/SinglyLinkedList.h
+DoublyLinkedList/DoublyLinkedList.h
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/DoublyLinkedList/DoublyLinkedList.h
+SinglyLinkedList/Intersection.cpp
+/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/Intersection.cpp
+

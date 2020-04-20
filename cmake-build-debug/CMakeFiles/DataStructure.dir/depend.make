@@ -32,5 +32,16 @@ CMakeFiles/DataStructure.dir/Work2/run_work2.cpp.o: ../Work2/SinglyLinkedList/Si
 CMakeFiles/DataStructure.dir/Work2/run_work2.cpp.o: ../Work2/SinglyLinkedList/SinglyLinkedListNode.h
 CMakeFiles/DataStructure.dir/Work2/run_work2.cpp.o: ../Work2/run_work2.cpp
 
+CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o: ../Work3/Deque.cpp
+CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o: ../Work3/Deque.h
+CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o: ../Work3/DequeNode.h
+
+CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o: ../Work3/DequeNode.cpp
+CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o: ../Work3/DequeNode.h
+
+CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o: ../Work3/Deque.h
+CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o: ../Work3/DequeNode.h
+CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o: ../Work3/run_work3.cpp
+
 CMakeFiles/DataStructure.dir/main.cpp.o: ../main.cpp
 

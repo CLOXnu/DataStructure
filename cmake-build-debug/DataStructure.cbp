@@ -119,6 +119,21 @@
 		<Unit filename="/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/run_work2.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
+		<Unit filename="/Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/Deque.cpp">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/Deque.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/DequeNode.cpp">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/DequeNode.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/run_work3.cpp">
+			<Option target="DataStructure"/>
+		</Unit>
 		<Unit filename="/Users/land/Documents/Workspace/Homeworks/DataStructure/main.cpp">
 			<Option target="DataStructure"/>
 		</Unit>

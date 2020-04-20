@@ -339,6 +339,87 @@ Work2/run_work2.cpp.s:
 	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work2/run_work2.cpp.s
 .PHONY : Work2/run_work2.cpp.s
 
+Work3/Deque.o: Work3/Deque.cpp.o
+
+.PHONY : Work3/Deque.o
+
+# target to build an object file
+Work3/Deque.cpp.o:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o
+.PHONY : Work3/Deque.cpp.o
+
+Work3/Deque.i: Work3/Deque.cpp.i
+
+.PHONY : Work3/Deque.i
+
+# target to preprocess a source file
+Work3/Deque.cpp.i:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/Deque.cpp.i
+.PHONY : Work3/Deque.cpp.i
+
+Work3/Deque.s: Work3/Deque.cpp.s
+
+.PHONY : Work3/Deque.s
+
+# target to generate assembly for a file
+Work3/Deque.cpp.s:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/Deque.cpp.s
+.PHONY : Work3/Deque.cpp.s
+
+Work3/DequeNode.o: Work3/DequeNode.cpp.o
+
+.PHONY : Work3/DequeNode.o
+
+# target to build an object file
+Work3/DequeNode.cpp.o:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o
+.PHONY : Work3/DequeNode.cpp.o
+
+Work3/DequeNode.i: Work3/DequeNode.cpp.i
+
+.PHONY : Work3/DequeNode.i
+
+# target to preprocess a source file
+Work3/DequeNode.cpp.i:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.i
+.PHONY : Work3/DequeNode.cpp.i
+
+Work3/DequeNode.s: Work3/DequeNode.cpp.s
+
+.PHONY : Work3/DequeNode.s
+
+# target to generate assembly for a file
+Work3/DequeNode.cpp.s:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.s
+.PHONY : Work3/DequeNode.cpp.s
+
+Work3/run_work3.o: Work3/run_work3.cpp.o
+
+.PHONY : Work3/run_work3.o
+
+# target to build an object file
+Work3/run_work3.cpp.o:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o
+.PHONY : Work3/run_work3.cpp.o
+
+Work3/run_work3.i: Work3/run_work3.cpp.i
+
+.PHONY : Work3/run_work3.i
+
+# target to preprocess a source file
+Work3/run_work3.cpp.i:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.i
+.PHONY : Work3/run_work3.cpp.i
+
+Work3/run_work3.s: Work3/run_work3.cpp.s
+
+.PHONY : Work3/run_work3.s
+
+# target to generate assembly for a file
+Work3/run_work3.cpp.s:
+	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.s
+.PHONY : Work3/run_work3.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -399,6 +480,15 @@ help:
 	@echo "... Work2/run_work2.o"
 	@echo "... Work2/run_work2.i"
 	@echo "... Work2/run_work2.s"
+	@echo "... Work3/Deque.o"
+	@echo "... Work3/Deque.i"
+	@echo "... Work3/Deque.s"
+	@echo "... Work3/DequeNode.o"
+	@echo "... Work3/DequeNode.i"
+	@echo "... Work3/DequeNode.s"
+	@echo "... Work3/run_work3.o"
+	@echo "... Work3/run_work3.i"
+	@echo "... Work3/run_work3.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

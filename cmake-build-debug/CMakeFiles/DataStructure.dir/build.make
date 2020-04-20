@@ -174,6 +174,45 @@ CMakeFiles/DataStructure.dir/Work2/SinglyLinkedList/Intersection.cpp.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/Work2/SinglyLinkedList/Intersection.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/Intersection.cpp -o CMakeFiles/DataStructure.dir/Work2/SinglyLinkedList/Intersection.cpp.s
 
+CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o: ../Work3/run_work3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o -c /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/run_work3.cpp
+
+CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/run_work3.cpp > CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.i
+
+CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/run_work3.cpp -o CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.s
+
+CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o: ../Work3/Deque.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o -c /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/Deque.cpp
+
+CMakeFiles/DataStructure.dir/Work3/Deque.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/Work3/Deque.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/Deque.cpp > CMakeFiles/DataStructure.dir/Work3/Deque.cpp.i
+
+CMakeFiles/DataStructure.dir/Work3/Deque.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/Work3/Deque.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/Deque.cpp -o CMakeFiles/DataStructure.dir/Work3/Deque.cpp.s
+
+CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o: ../Work3/DequeNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o -c /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/DequeNode.cpp
+
+CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/DequeNode.cpp > CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.i
+
+CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/DequeNode.cpp -o CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.s
+
 # Object files for target DataStructure
 DataStructure_OBJECTS = \
 "CMakeFiles/DataStructure.dir/main.cpp.o" \
@@ -184,7 +223,10 @@ DataStructure_OBJECTS = \
 "CMakeFiles/DataStructure.dir/Work2/run_work2.cpp.o" \
 "CMakeFiles/DataStructure.dir/Work2/DoublyLinkedList/DoublyLinkedList.cpp.o" \
 "CMakeFiles/DataStructure.dir/Work2/DoublyLinkedList/DoublyLinkedListNode.cpp.o" \
-"CMakeFiles/DataStructure.dir/Work2/SinglyLinkedList/Intersection.cpp.o"
+"CMakeFiles/DataStructure.dir/Work2/SinglyLinkedList/Intersection.cpp.o" \
+"CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o" \
+"CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o" \
+"CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o"
 
 # External object files for target DataStructure
 DataStructure_EXTERNAL_OBJECTS =
@@ -198,9 +240,12 @@ DataStructure: CMakeFiles/DataStructure.dir/Work2/run_work2.cpp.o
 DataStructure: CMakeFiles/DataStructure.dir/Work2/DoublyLinkedList/DoublyLinkedList.cpp.o
 DataStructure: CMakeFiles/DataStructure.dir/Work2/DoublyLinkedList/DoublyLinkedListNode.cpp.o
 DataStructure: CMakeFiles/DataStructure.dir/Work2/SinglyLinkedList/Intersection.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o
 DataStructure: CMakeFiles/DataStructure.dir/build.make
 DataStructure: CMakeFiles/DataStructure.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable DataStructure"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable DataStructure"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/DataStructure.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

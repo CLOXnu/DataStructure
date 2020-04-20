@@ -12,6 +12,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/SinglyLinkedList.cpp" "/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/Work2/SinglyLinkedList/SinglyLinkedList.cpp.o"
   "/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/SinglyLinkedList/SinglyLinkedListNode.cpp" "/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/Work2/SinglyLinkedList/SinglyLinkedListNode.cpp.o"
   "/Users/land/Documents/Workspace/Homeworks/DataStructure/Work2/run_work2.cpp" "/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/Work2/run_work2.cpp.o"
+  "/Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/Deque.cpp" "/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/Work3/Deque.cpp.o"
+  "/Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/DequeNode.cpp" "/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/Work3/DequeNode.cpp.o"
+  "/Users/land/Documents/Workspace/Homeworks/DataStructure/Work3/run_work3.cpp" "/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/Work3/run_work3.cpp.o"
   "/Users/land/Documents/Workspace/Homeworks/DataStructure/main.cpp" "/Users/land/Documents/Workspace/Homeworks/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
